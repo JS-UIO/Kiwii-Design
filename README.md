@@ -36,12 +36,6 @@ imgs:['images/llaveros/llaveros-1.jpg']
 imgs:['images/llaveros/llaveros-1.jpg','images/llaveros/llaveros-9.jpg']
 ```
 
-## 🚀 Publicar en GitHub Pages
-
-1. Sube la carpeta `kiwii-design/` a un repositorio GitHub
-2. Ve a **Settings → Pages → Source → main → / (root)**
-3. Tu tienda estará en `https://[usuario].github.io/[repositorio]/`
-
 ## 📱 Características
 
 - ✅ Mobile-first, optimizado para celular
