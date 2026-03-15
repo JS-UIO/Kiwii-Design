@@ -1,0 +1,3 @@
+# Orquídeas
+Coloca aquí las fotos de los productos de orquídeas (aretes, anillos, collares).
+Nombres sugeridos: orquidea-1.jpg, orquidea-2.jpg, orquidea-3.jpg ...
